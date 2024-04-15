@@ -4,4 +4,4 @@ Through the fusion of fuzzy logic methodologies with medical imaging data, the s
 
 The significance of this research lies in its potential to contribute a novel and impactful solution to the field of cardiology through the publication of a research paper. By automating the analysis process using fuzzy logic and weighted parameters, the project aims to provide clinicians with a more efficient and reliable tool for identifying and classifying valvular heart diseases. The paper will document the implemented fuzzy logic system, detailing its methodology, results, and implications, thereby offering a tangible and reproducible contribution to the medical community. This publication represents a substantial advancement in the integration of advanced AI techniques, particularly fuzzy logic, in cardiology, holding promise for enhancing diagnostic capabilities in the realm of valvular heart diseases.
 
-Presentation link
+Presentation link: https://www.canva.com/design/DAFl46tbF1M/MyWIMw5jNSNCI1FC-FQ4gA/edit?utm_content=DAFl46tbF1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
